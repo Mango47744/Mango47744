@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mango47744
 - 👀 I’m interested in ... websites, apps, music, video games
-- 🌱 I’m currently learning ... HTML CSS JAVASCRIPT
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... anything fun 
 - 📫 How to reach me ... on github
 - 😄 Pronouns: ... Him / He
